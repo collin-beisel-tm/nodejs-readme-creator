@@ -104,28 +104,22 @@ const promptUser = () => {
         choices: [
           new inquirer.Separator(' = License Choices = '),
           {
-            name: 'GNU AGPLv3',
+            name: 'GNU',
           },
           {
-            name: 'GNU GPLv3',
+            name: 'Mozilla',
           },
           {
-            name: 'GNU LGPLv3',
+            name: 'Apache',
           },
           {
-            name: 'Mozilla Public License 2.0',
+            name: 'MIT',
           },
           {
-            name: 'Apache License 2.0',
+            name: 'Boost',
           },
           {
-            name: 'MIT License',
-          },
-          {
-            name: 'Boost Software License 1.0',
-          },
-          {
-            name: 'The Unlicense',
+            name: 'Unlicense',
           }
         ],
         validate(answer) {

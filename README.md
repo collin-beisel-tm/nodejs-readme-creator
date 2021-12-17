@@ -1,6 +1,6 @@
 # README Generator
 
-  ![Github licence](http://img.shields.io/badge/license-MIT License-blue.svg)
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
   Generates readmes for your project in node console

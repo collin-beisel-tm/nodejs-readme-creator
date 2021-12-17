@@ -1,9 +1,9 @@
-# README Generator
+# y
 
-  ![Github licence](http://img.shields.io/badge/license-MIT License-blue.svg)
+  ![Github licence](http://img.shields.io/badge/license-Mozilla-blue.svg)
 
   ## Description 
-  Generates readmes for your project in node console
+  y
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,14 +13,14 @@
   * [Questions](#questions)
   
   ## Installation 
-  clone, install, run
+  y
   ## Usage 
-  use for any app 
+  y
   ## License 
-  This project is licensed under MIT License
+  This project is licensed under Mozilla
   ## Contributing 
-  contribute as you see fit
+  y
   ## Tests
-  No test cases
+  y
   ## Questions
-  Made with love by Collin Beisel. If you have any questions, feel free to reach out to me at collin.d.beisel@gmail.com. Don't forget to checkout my GitHub profile/projects at https://github.com/collin-beisel-tm.
+  Made with love by y. If you have any questions, feel free to reach out to me at y. Don't forget to checkout my GitHub profile/projects at https://github.com/y.
