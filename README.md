@@ -3,7 +3,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
-  Generates readmes for your project in node console
+  This is a Node.js application that generates a README markdown file for developers. It uses the console to take user input through a series of questions and injects the responses into a markdown file for users to include in their github repo. 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -15,15 +15,21 @@
   * [Acceptance Criteria](#acceptance-criteria)
   
   ## Installation 
-  clone, install, run
+  - clone this repository from github
+  - open your ternimal and change directories into this application
+  - run "npm install"
+  - run "node index"
+  - answer all questions when prompted
+  - navigate to the dist folder and find the newly generated README file
+  - add to your project
   ## Usage 
-  use for any app 
+  This readme generator can be used to help spead up the process of writing a README document for any of your projects.
   ## License 
-  This project is licensed under MIT License
+  This project is licensed under MIT.
   ## Contributing 
-  contribute as you see fit
+  No contributions are needed at this time.
   ## Tests
-  No test cases
+  There are no test cases available at this time.
   ## Questions
   Made with love by Collin Beisel. If you have any questions, feel free to reach out to me at collin.d.beisel@gmail.com. Don't forget to checkout my GitHub profile/projects at https://github.com/collin-beisel-tm.
 ## User Story
@@ -39,10 +45,8 @@ WHEN I enter my project title
 THEN this is displayed as the title of the README
 WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-
 WHEN I choose a license for my application from a list of options
 THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-
 WHEN I enter my GitHub username
 THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
 WHEN I enter my email address
