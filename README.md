@@ -11,6 +11,8 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [User Story](#User-Story)
+  * [Acceptance Criteria](#acceptance-criteria)
   
   ## Installation 
   clone, install, run
