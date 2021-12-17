@@ -1,5 +1,4 @@
-
-  # README Generator
+# README Generator
 
   ![Github licence](http://img.shields.io/badge/license-MIT License-blue.svg)
 
