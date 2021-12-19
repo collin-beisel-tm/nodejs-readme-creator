@@ -5,7 +5,7 @@
   ## Description 
   This is a Node.js application that generates a README markdown file for developers. It uses the console to take user input through a series of questions and injects the responses into a markdown file for users to include in their github repo. 
 
-    ![App Screenshot](./assets/images/app-screenshot.PNG)
+    ![App Screenshot](https://github.com/collin-beisel-tm/nodejs-readme-creator/blob/main/assets/images/app-screenshot.PNG)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
