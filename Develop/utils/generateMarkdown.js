@@ -1,6 +1,7 @@
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  //uses template literals to return the needed text and user data to generate a markdown file.
   return `# ${data.title}
 
   ![Github licence](http://img.shields.io/badge/license-${data.license}-blue.svg)

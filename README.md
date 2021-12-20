@@ -2,10 +2,11 @@
 
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
+  ## Demo Link
+  https://drive.google.com/file/d/1k-i-gwrbqqJWWS0rL0sPpx0i6NP-bsnu/view?usp=sharing
+
   ## Description 
   This is a Node.js application that generates a README markdown file for developers. It uses the console to take user input through a series of questions and injects the responses into a markdown file for users to include in their github repo. 
-
-    ![App Screenshot](https://github.com/collin-beisel-tm/nodejs-readme-creator/blob/main/Develop/assets/images/app-screenshot.PNG)
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)

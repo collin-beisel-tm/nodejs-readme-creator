@@ -1,6 +1,9 @@
 // TODO: Include packages needed for this application
+//include inquirer node module
 const inquirer = require('inquirer');
+//connect to generate markdown javascript file
 const generateMarkdown = require('./utils/generateMarkdown.js');
+//include file system node module
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
@@ -179,7 +182,7 @@ function init() {
     .then ( data => {
       return generateMarkdown(data);
     })
-    //then write the output of the generate markdown file 
+    //then write the output of the generate markdown function to a new README.md file
     .then (data => {
       return writeFile(data);
     })
